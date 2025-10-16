@@ -1,0 +1,105 @@
+body {
+    font-size: 15pt;
+}
+  .main-h{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    
+    background-color: #FF0000;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 0px;
+    
+    
+    
+    
+  }
+  .logo-img{
+    width: 80px;
+    border-radius: 45px;
+    border-style: solid;
+    border-width: 1px ;
+    border-color: black;
+    display: inline-block;
+    margin-top: -90px;
+    box-shadow: 0px 0px 30px black;
+    margin-left: 330px;
+  }
+  .div-1{
+    vertical-align: top;
+  
+  }
+  .ad-p{
+    margin-left: 30px;
+    font-family: arial;
+    font-weight: bolder;
+    border-style: solid;
+    border-width: 1px ;
+    border-color:#000000;
+    padding-right: 10px;
+    padding-left:10px;
+    
+  }
+  .serch-box{
+    width: 300px;
+    height: 30px;
+    border-style: solid;
+    border-right-width: 2px;
+    border-color: black;
+    border-radius: 30px;
+    font-family: arial;
+    font-weight: bold;
+    padding-left: 10px;
+    font-size: 20px;
+  }
+  .serch-logo{
+    display:inline-block;
+    font-family: arial;
+    
+  }
+  .top-img{
+    width: 300px;
+    border-radius: 10px;
+  }
+  .top-class{
+    margin-top: 40px;
+    background-color: #FFD500;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 0px #000000;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    
+  }
+  .top-p{
+    font-family: arial;
+    color: #000000;
+    font-weight: bold;
+  }
+  .top-download{
+    font-family: arial;
+    border-style: solid;
+    border-color:white;
+    background-color: #004AFF;
+    color: white;
+    width: 200px;
+    height: 60px;
+    border-radius: 50px;
+  }
+  .top-download:active{
+    background-color: white;
+    color: #004AFF;
+  }
+  .top-red{
+    font-family: arial;
+    font-weight: bolder;
+    text-shadow: 3px 3px 0px #000000;
+    color: red;
+    display: inline-block;
+    
+  }
+  
